@@ -8,6 +8,11 @@
             "QuadruPHP\\Router\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Christophe DALOZ - DE LOS RIOS",
